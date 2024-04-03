@@ -6,3 +6,6 @@ Scissors cuts paper (scissors win)
 Paper covers rock (paper wins)
 If both players choose the same shape, the game is a tie and is often played again. It's a simple and fun game of chance, often used as a quick decision-making tool or for entertainment
 
+
+this project is built with implementation of  Functions, objects, local Storage , and Onpage result , at every stage one after other to demonstrate the changes in project after implementation of each technique.
+
